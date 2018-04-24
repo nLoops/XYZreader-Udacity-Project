@@ -18,6 +18,7 @@
             android:id="@+id/thumbnail"
             android:layout_width="match_parent"
             android:layout_height="@dimen/item_img_height"
+            android:transitionName="profile"
             android:background="@color/photo_placeholder"
             android:scaleType="centerCrop" />
 

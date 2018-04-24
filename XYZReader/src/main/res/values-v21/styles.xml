@@ -3,5 +3,6 @@
 
     <style name="Theme.Bacon" parent="@style/Theme.AppCompat.Light.NoActionBar">
         <item name="android:statusBarColor">@color/theme_primary</item>
+        <item name="android:windowContentTransitions">true</item>
     </style>
 </resources>
